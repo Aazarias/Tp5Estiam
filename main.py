@@ -13,8 +13,8 @@ def test_function():
   c = 8
   d = 12
 
-  print("test de fonction add avec : ",c,"+",d,"=",add(c,d))
-  print("test de fonction concat avec : ",a,"et",b,"=",concat("test","concat"))
-  print("test de fonction soustraction avec : ",d,"-",c,"=",soustraction(d,c))
+  print("test de fonction user 2 add avec : ",c,"+",d,"=",add(c,d))
+  print("test de fonction user 2 concat avec : ",a,"et",b,"=",concat("test","concat"))
+  print("test de fonction user 2 soustraction avec : ",d,"-",c,"=",soustraction(d,c))
 
 test_function()
