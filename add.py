@@ -3,3 +3,6 @@ def add(a : int,b : int):
 
 def concat(a : str,b : str):
     return a+b
+
+def soustraction(a : int, b : int):
+    return a-b
